@@ -1,7 +1,1 @@
-# Sistema de Alarme com Sensor de Movimento
-1. Sistema de Alarme com Sensor de Movimento
-Componentes: Arduino Uno, sensor de movimento PIR, buzina, LEDs, resistores.
-Descrição:
-O sensor PIR (Passive Infrared) detecta movimento no ambiente.
-Quando o sensor detecta movimento, o Arduino aciona a buzina e os LEDs.
-Pode ser configurado para enviar notificações, como uma mensagem SMS usando módulos GSM.
+
